@@ -20,8 +20,8 @@ Ensure you have the following installed on your machine:
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/k6-fuse8-starter-kit.git
-cd k6-fuse8-starter-kit
+git clone https://github.com/VasilKham/k6-load-test-starter-kit.git
+cd k6-load-test-starter-kit
 ```
 
 **2. Start the monitoring infrastructure:**
