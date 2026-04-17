@@ -1,10 +1,10 @@
-# 🚀 k6 + Grafana + InfluxDB Starter Kit
+# k6 + Grafana + InfluxDB Starter Kit
 
 A ready-to-use template for quick-start load testing. This repository provides a pre-configured stack featuring **k6** for load generation, **InfluxDB** for metric storage, and **Grafana** with an auto-provisioned real-time dashboard.
 
 *This project is a practical companion to the article on Habr: [Link to your article here]*
 
-## 🛠 Features
+## Features
 - **Fully Dockerized:** The entire monitoring infrastructure spins up with a single command.
 - **Isolated Ports:** Grafana runs on port `3002` and InfluxDB on `8087` to avoid conflicts with your existing local environments.
 - **Auto-provisioning:** Grafana dashboards and data sources are configured automatically. No manual UI clicking is required.
@@ -16,7 +16,7 @@ Ensure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/) (for running npm scripts)
 - [k6](https://k6.io/docs/get-started/installation/)
 
-## 🚀 Quick Start
+## Quick Start
 
 **1. Clone the repository:**
 ```bash
