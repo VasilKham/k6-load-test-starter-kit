@@ -1,0 +1,7 @@
+{
+  "name": "k6-fuse8-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "test:spider": "k6 run --out influxdb=http://localhost:8087/k6 scripts/sitemap_spider.js"
+  }
+}
