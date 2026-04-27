@@ -2,8 +2,6 @@
 
 A ready-to-use template for quick-start load testing. This repository provides a pre-configured stack featuring **k6** for load generation, **InfluxDB** for metric storage, and **Grafana** with an auto-provisioned real-time dashboard.
 
-*This project is a practical companion to the article on Habr: [Link to your article here]*
-
 ## Features
 - **Fully Dockerized:** The entire monitoring infrastructure spins up with a single command.
 - **Isolated Ports:** Grafana runs on port `3002` and InfluxDB on `8087` to avoid conflicts with your existing local environments.
